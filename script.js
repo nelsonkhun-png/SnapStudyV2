@@ -1,4 +1,3 @@
-/* ============ STORAGE HELPERS ============ */
 const DB_KEY = 'snapstudy_users';
 const SESSION_KEY = 'snapstudy_session';
 const STREAK_KEY = 'snapstudy_streak';
